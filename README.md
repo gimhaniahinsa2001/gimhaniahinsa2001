@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food Delivery Web App, Doctor Appoinment App**
 
-- 🌱 I’m currently learning **Spring boot ,Express JS**
+- 🌱 I’m currently learning **Java ,Node JS**
 
 - 💬 Ask me about **HTML ,CSS , Tailwind CSS, React JS ,C , Java**
 
